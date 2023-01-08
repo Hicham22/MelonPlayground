@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FAC",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/2934735716",
+      "main_ads_rewardVideo":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+
+      "backup_ads_banner":"",
+      "backup_ads_rewardVideo":"1191168758461286_1191177668460395",
+      "backup_ads_intertitial":"",
+
+      "interval_intertitial": 3,
+      "status_app": true,
+      "backup_ads": false,
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "mods",
+      "image": "#",
+      "link":"#",
+      "status":false
+    }
+  ],
+  "Data":
+  [
+    {
+      "id": 1,
+      "name_category": "mods",
+      "title": "Mode 1",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad1.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/1.zip",
+      "ads":false
+    },{
+      "id": 2,
+      "name_category": "mods",
+      "title": "Mode 2",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad2.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/2.zip",
+      "ads":false
+    },{
+      "id": 3,
+      "name_category": "mods",
+      "title": "Mode 3",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad3.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/3.zip",
+      "ads":false
+    },{
+      "id": 4,
+      "name_category": "mods",
+      "title": "Mode 4",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad4.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/4.zip",
+      "ads":false
+    },{
+      "id": 5,
+      "name_category": "mods",
+      "title": "Mode 5",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad5.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/5.zip",
+      "ads":false
+    },{
+      "id": 6,
+      "name_category": "mods",
+      "title": "Mode 6",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad6.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/6.zip",
+      "ads":false
+    },{
+      "id": 7,
+      "name_category": "mods",
+      "title": "Mode 7",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad7.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/7.zip",
+      "ads":false
+    },{
+      "id": 8,
+      "name_category": "mods",
+      "title": "Mode 8",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad8.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/8.zip",
+      "ads":false
+    },{
+      "id": 9,
+      "name_category": "mods",
+      "title": "Mode 9",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad9.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/9.zip",
+      "ads":false
+    },{
+      "id": 10,
+      "name_category": "mods",
+      "title": "Mode 10",
+      "image": "https://hicham22.github.io/MelonPlayground/godzila/ad10.png",
+      "description": "",
+      "link": "https://hicham22.github.io/MelonPlayground/godzila/10.zip",
+      "ads":false
+    }
+  ]
+}
